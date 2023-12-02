@@ -72,7 +72,7 @@ Principal Component Analysis (PCA) is applied to further reduce dimensionality a
 
 
 4. Model Architecture
-5. 
+   
 a. Experiment 1 - CNN
 
 Model Architecture:
