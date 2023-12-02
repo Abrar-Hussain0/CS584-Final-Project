@@ -15,17 +15,17 @@ TABLE OF CONTENTS
 
 1. Abstract	
 2. Data Set Description	
-3. Data Visualization Techniques	
-a. UMap	
-b. t-SNE	
+3. Data Visualization Techniques	 <br />
+a. UMap	 <br />
+b. t-SNE	 <br />
 c. PCA	
-4. Model Architecture	
-a. CNN Model	
-b. Experiment 1- CNN	
-     c. Experiment 2 with Early Stopping
-     d. Experiment 3 Inception with Early Stopping and ReduceLROP	
-5. Additional Features - Real-Time Emotion Detection	
-a. Methodology	
+4. Model Architecture <br />	
+a. CNN Model	 <br />
+b. Experiment 1- CNN	 <br />
+c.  Experiment 2 with Early Stopping <br />
+d. Experiment 3 Inception with Early Stopping and ReduceLROP	 <br />
+5. Additional Features - Real-Time Emotion Detection	 <br />
+a. Methodology	 <br />
 b. Outputs	
 6. Conclusion	
 7. Future Work	
