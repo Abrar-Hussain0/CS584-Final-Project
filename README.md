@@ -3,7 +3,7 @@ This is the final project for CS584 Machine Learning - Fall 2023 at Illinois Ins
 
 
 Submitted 
-by
+by <br />
 Khizar Baig Mohammed | A20544254 | kmohammed3@hawk.iit.edu <br />
 Ananth Valluru | A20544418 | avalluru1@hawk.iit.edu <br />
 Abrar Hussain | A20552446 | ahussain18@hawk.iit.edu
