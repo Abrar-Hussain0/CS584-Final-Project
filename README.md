@@ -1,4 +1,4 @@
-#Emotion Detection Using CNN - CS584-Final-Project
+# Emotion Detection Using CNN - CS584-Final-Project
 This is the final project for CS584 Machine Learning - Fall 2023 at Illinois Institute of Technology
 
 
