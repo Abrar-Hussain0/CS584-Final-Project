@@ -169,6 +169,7 @@ In addition to the model training and evaluation, real-time emotion detection is
 b. Outputs
 Visual feedback is an integral part of the real-time emotion detection process. The shape design element, representing different emotions through distinct shapes, enhances the user's understanding of the detected emotions. The design choices are carefully considered to align with the emotional states, providing a more engaging and informative user experience.
 
+![image](https://github.com/Khizar-Baig/CS584-Final-Project/assets/59732957/b49c8cba-5934-49b7-aa4d-7212d0a17c35)
 
 
 6. Conclusion
