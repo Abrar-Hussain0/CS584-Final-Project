@@ -32,10 +32,10 @@ b. Outputs
 8. References	
 
 
-
-
+ <br />
 
 1. Abstract
+
 GitHub Link - https://github.com/Khizar-Baig/CS584-Final-Project
 
 This project involves the development of a Convolutional Neural Network (CNN) to discern human emotions from facial images. The dataset comprises a substantial 35,887 grayscale images categorized into seven emotional states: happiness, sadness, anger, neutrality, surprise, disgust, and fear. The core innovation of this project lies in real-time emotion detection using OpenCV, coupled with a novel shape design element that provides intuitive visual feedback during the interaction.
@@ -180,11 +180,11 @@ This project successfully combined the power of Convolutional Neural Networks (C
 7. Future Work
 For future enhancements of this emotion detection project, a multifaceted approach could be adopted. Expanding the dataset to include a wider range of emotional expressions, ages, ethnicities, and lighting conditions would greatly enhance the model's accuracy and inclusivity. Delving into advanced neural architectures like Transformers or enhancing real-time processing capabilities through model optimization techniques would further refine performance. Integrating other modalities such as voice or body language analysis could lead to more comprehensive emotion recognition systems. Additionally, focusing on personalization, ethical usage, and robust privacy measures will be essential, especially as the technology finds applications in sensitive domains like mental health and interactive customer service. Lastly, ensuring the model's adaptability across different platforms would make this technology more accessible and versatile in various real-world scenarios.
 
-8. References
-Emotion Recognition Based on Facial Expressions Using Convolutional Neural Network (CNN) | IEEE Conference Publication | IEEE Xplore. (n.d.). Ieeexplore.ieee.org. Retrieved December 2, 2023, from https://ieeexplore.ieee.org/document/9302866
-Emotion Detection and Characterization using Facial Features. (n.d.). Ieeexplore.ieee.org. https://ieeexplore.ieee.org/document/8710406 
-Facial Emotion Detection Using Deep Learning. (n.d.). Ieeexplore.ieee.org. https://ieeexplore.ieee.org/document/9154121 
-Facial Emotion Recognition Using Shallow CNN. (n.d.). Springerprofessional.de. Retrieved December 2, 2023, from https://www.springerprofessional.de/en/facial-emotion-recognition-using-shallow-cnn/17867428 
+8. References <br />
+Emotion Recognition Based on Facial Expressions Using Convolutional Neural Network (CNN) | IEEE Conference Publication | IEEE Xplore. (n.d.). Ieeexplore.ieee.org. Retrieved December 2, 2023, from https://ieeexplore.ieee.org/document/9302866 <br />
+Emotion Detection and Characterization using Facial Features. (n.d.). Ieeexplore.ieee.org. https://ieeexplore.ieee.org/document/8710406  <br />
+Facial Emotion Detection Using Deep Learning. (n.d.). Ieeexplore.ieee.org. https://ieeexplore.ieee.org/document/9154121  <br />
+Facial Emotion Recognition Using Shallow CNN. (n.d.). Springerprofessional.de. Retrieved December 2, 2023, from https://www.springerprofessional.de/en/facial-emotion-recognition-using-shallow-cnn/17867428  <br />
 Huang, Z.-Y., Chiang, C.-C., Chen, J.-H., Chen, Y.-C., Chung, H.-L., Cai, Y.-P., & Hsu, H.-C. (2023). A study on computer vision for facial emotion recognition. 13(1). https://doi.org/10.1038/s41598-023-35446-4 
 
 
