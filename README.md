@@ -1,5 +1,5 @@
 # Emotion Detection Using CNN - CS584-Final-Project
-This is the final project for CS584 Machine Learning - Fall 2023 at Illinois Institute of Technology
+This is the final project for CS584 Machine Learning - Fall 2023 at the Illinois Institute of Technology
 
 
 Submitted 
@@ -22,8 +22,8 @@ c. PCA
 4. Model Architecture	
 a. CNN Model	
 b. Experiment 1- CNN	
-     c. Experiment 2 with Early Stopping…………………………………...
-     d. Experiment 3 Inception with Early Stopping	
+     c. Experiment 2 with Early Stopping
+     d. Experiment 3 Inception with Early Stopping and ReduceLROP	
 5. Additional Features - Real-Time Emotion Detection	
 a. Methodology	
 b. Outputs	
@@ -38,7 +38,7 @@ b. Outputs
 1. Abstract
 GitHub Link - https://github.com/Khizar-Baig/CS584-Final-Project
 
-This project involves the development of a Convolutional Neural Network (CNN) to discern human emotions from facial images. The dataset comprises a substantial 35,887 grayscale images categorized into seven emotional states: happiness, sadness, anger, neutrality, surprise, disgust, and fear. The core innovation of this project lies in the real-time emotion detection using OpenCV, coupled with a novel shape design element that provides intuitive visual feedback during the interaction.
+This project involves the development of a Convolutional Neural Network (CNN) to discern human emotions from facial images. The dataset comprises a substantial 35,887 grayscale images categorized into seven emotional states: happiness, sadness, anger, neutrality, surprise, disgust, and fear. The core innovation of this project lies in real-time emotion detection using OpenCV, coupled with a novel shape design element that provides intuitive visual feedback during the interaction.
 
 
 ![image](https://github.com/Khizar-Baig/CS584-Final-Project/assets/59732957/f23e4f21-9a96-42f8-8041-7ec794ece2ab)
@@ -47,6 +47,7 @@ This project involves the development of a Convolutional Neural Network (CNN) to
 The dataset utilized in this project consists of 35,887 facial images, with a breakdown of 28,821 images for training and 7,066 for validation. Each image is a 48x48 pixel grayscale representation of various emotional states, including happiness, sadness, anger, neutrality, surprise, disgust, and fear. The dataset is publicly available on Kaggle, accessible through the following:
 
 Dataset- https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
+
 ![image](https://github.com/Khizar-Baig/CS584-Final-Project/assets/59732957/fa402f4c-bdc7-430b-b1e1-619d1e6a8b2a)
 
 
